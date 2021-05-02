@@ -1,18 +1,67 @@
 scheme: "Firewatch"
 author: "Jakob Kukla"
-base00: "1e1416"
-base01: "564e50"
-base02: "564e50" #help
-base03: "faa586"
-base04: "faa586" #help
-base05: "c6c4c4"
-base06: "e0e0e0"
-base07: "e0e0e0" #help
-base08: "faa586"
-base09: "f98968"
-base0A: "ba807a"
-base0B: "f6592d"
-base0C: "e42a23"
-base0D: "e42a23" #help
-base0E: "9e081c"
-base0F: "9e081c" #help
+#base00: "1e1416" #1e1416
+#base01: "564e50" #564e50
+#base02: "564e50" #564e50 #help
+#base03: "564e50" #564e50 #help
+#base04: "faa586" #faa586 #help
+#base05: "c6c4c4" #c6c4c4
+#base06: "e0e0e0" #e0e0e0
+#base07: "e0e0e0" #e0e0e0 #help
+#base08: "faa586" #faa586
+#base09: "f98968" #f98968
+#base0A: "ba807a" #ba807a
+#base0B: "f6592d" #f6592d
+#base0C: "e32923" #e32923
+#base0D: "e32923" #e32923 #help
+#base0E: "9e081c" #9e081c
+#base0F: "9e081c" #9e081c #help
+
+#base0C: "e42a23" #e42a23
+#base0D: "e42a23" #e42a23 #help
+
+#base00: "1e1416" #1e1416
+#base01: '261a1c' #261a1c
+#base02: '5c5354' #5c5354
+#base03: '7b6f70' #7b6f70 #
+#base04: '9f9091' #9f9091
+#base05: "c6c4c4" #c6c4c4
+#base06: 'c8c5c6' #c8c5c6
+#base07: "e0e0e0" #e0e0e0
+#base08: 'fba686' #fba686
+#base09: 'f5876b' #f5876b
+#base0A: 'bf776b' #bf776b
+#base0B: 'f65b2f' #f65b2f
+#base0C: 'e32923' #e32923
+#base0D: 'e32923' #e32923
+#base0E: '9e081c' #9e081c
+#base0F: '9e081c' #9e081c
+
+base00: "1e1416" #1e1416
+base01: '362427' #362427
+base02: '4d3339' #4d3339
+base03: '65434a' #65434a
+base04: 'ccb3b8' #ccb3b8
+base05: "dccbce" #dccbce
+base06: 'ece2e4' #ece2e4
+base07: "fbfafa" #fbfafa
+
+#base08: 'fba686' #fba686 +
+#base09: '0092aa' #0092aa +
+#base0A: 'ef5d89' #ef5d89
+#base0B: 'f5876b' #f5876b +
+#base0C: '9e081c' #9e081c +
+#base0D: 'e32923' #e32923 +
+#base0E: 'f65b2f' #f65b2f +
+#base0F: '9e081c' #9e081c
+
+base08: 'fba686' #fba686
+base09: 'f5876b' #f5876b
+base0A: 'bf776b' #bf776b
+base0B: 'f5876b' #f5876b c
+base0C: '9e081c' #9e081c c
+base0D: 'e32923' #e32923
+base0E: 'f65b2f' #f65b2f c
+base0F: '9e081c' #9e081c
+
+
